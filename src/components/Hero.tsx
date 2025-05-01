@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 bg-white rounded-full overflow-hidden border-8 border-amber-100">
               <img 
-                src="/src/assets/tian.png" 
+                src="//s3-us-west-1.amazonaws.com/s3b-usw-1-production/175/1195/file-01968e05cdbe782f885362450fc035e9-big.png" 
                 alt="Tian the Muffin Man" 
                 className="w-full h-full object-cover"
               />
